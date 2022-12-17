@@ -1,0 +1,8 @@
+img{width: 200px; height: 200px; border-radius:15px; border: 4px solid; border-color: black; margin-left: 1cm;}
+nav{background-color: rgb(235, 99, 183); display: inline;}
+nav h2{font-style:italic; text-align: center; text-shadow: 10cm;}
+a:hover {color: #07ee6f;}
+.stypar{color:aqua; font-family:Georgia, 'Times New Roman', Times, serif;}
+.spsty{font-weight: bold;text-decoration:underline; padding-left: 50px; letter-spacing: 0.2cm;}
+.styh{text-decoration: underline; background-color: beige;}
+#styfoo{text-align: center;}
